@@ -1,0 +1,30 @@
+/* comentario */
+body{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.cuadrado-color{
+	background-color: #FFFFFF;
+	padding-bottom: 5px; /* para dar espacio*/
+}
+/* color y letra del texto*/
+
+h1{
+	color: #DC0F0F;
+}
+
+p{
+	color: #000000;
+
+}
+
+img{
+	width: 400px;
+
+}
+
+.more-info{
+	border-top: 1px dashed black;
+}
